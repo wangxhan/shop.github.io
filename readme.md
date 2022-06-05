@@ -1,3 +1,5 @@
+# Landing page
+
 swith website to new address.
-index goes to shop
-ldy = lv daye
+'/' and '/index.html' go to shop
+'/ldy.html goes to ldy's cashflow table
